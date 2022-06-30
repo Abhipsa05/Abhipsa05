@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oFwKCwA_TwVGNM0Q6XhKMvipBsB1WJKz/view?usp=sharing](https://drive.google.com/file/d/1oFwKCwA_TwVGNM0Q6XhKMvipBsB1WJKz/view?usp=sharing)
 
-- ⚡ Fun fact **I love reading and anime**
+- ⚡ Fun fact **I love reading and Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
