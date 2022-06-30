@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhipsa05&label=Profile%20views&color=0e75b6&style=flat" alt="abhipsa05" /> </p>
 
-- 🌱 I’m currently learning **mern stack development and Algorithms**
+- 🌱 I’m currently learning **MERN stack development and Algorithms**
 
 - 💬 Ask me about **Python, Django and Graphic Design(Adobe Photoshop & Illustrator)**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.behance.net/abhipsa priyadarshini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abhipsa priyadarshini" height="30" width="40" /></a>
+<a href="https://www.behance.net/abhipsapriyada2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abhipsa priyadarshini" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abhipsa_5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhipsa_5" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhipsap2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhipsap2003" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abhipsa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhipsa_" height="30" width="40" /></a>
